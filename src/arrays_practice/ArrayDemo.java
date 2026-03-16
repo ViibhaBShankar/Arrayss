@@ -7,6 +7,7 @@ public class ArrayDemo {
 		// declare
 		int[] arr = null;
 		System.out.println(arr);
+		
 
 		// allocate space
 		arr = new int[5];
